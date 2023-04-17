@@ -1,0 +1,61 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.35rem;
+}
+
+.achv_logo {
+    height:25rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    margin: 0 1rem;
+}
+
+#carouselExampleSlidesOnly {
+    text-align: center;
+    padding: 0;
+    background-color: black;
+}
+
+.moto {
+    font-size: 5rem;
+    color: #F0F0F0;
+    padding: 8.5rem;
+    height:24.5rem
+}
+
+.about-us {
+    background-color: black;
+    color: #F0F0F0;
+    padding-bottom: 1rem;
+}
+
+.btn-in-btn-div {
+    margin: 0.5rem;
+}
+
+.about-us-desc {
+    margin-left: 0.5rem
+}
+
+.more-about-us-title {
+    color: black;
+    font-size: 5rem;
+    padding: 2rem;
+}
+
+.feature-div {
+    text-align: center;
+}
+
+.feature-image {
+    margin: 5% 0;
+}
+
+.feature-description {
+    color: #8f8f8f
+}
