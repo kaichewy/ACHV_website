@@ -9,6 +9,7 @@ body {
 
 .navbar-brand {
     font-size: 2.5rem;
+    margin-left: 2%;
 }
 
 .nav-item {
@@ -27,6 +28,13 @@ body {
     padding: 8.5rem;
     height:24.5rem
 }
+
+@media (max-width: 900px) {
+.moto {
+    font-size:250%;
+}
+}
+
 
 .about-us {
     background-color: black;
@@ -58,4 +66,8 @@ body {
 
 .feature-description {
     color: #8f8f8f
+}
+
+.more-about-us {
+    padding: 0 0 7% 0;
 }
