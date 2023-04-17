@@ -74,6 +74,7 @@ body {
 
 .card-deck {
     padding: 7%;
+    text-align: center;
 }
 
 #cta {
