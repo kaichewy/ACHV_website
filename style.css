@@ -52,7 +52,7 @@ body {
 
 .more-about-us-title {
     color: black;
-    font-size: 5rem;
+    font-size: 4rem;
     padding: 2rem;
 }
 
@@ -70,4 +70,25 @@ body {
 
 .more-about-us {
     padding: 0 0 7% 0;
+}
+
+.card-deck {
+    padding: 7%;
+}
+
+#cta {
+    background-color: black;
+    text-align: center;
+    padding: 5%;
+    color: #F0F0F0;
+}
+
+#footer {
+    padding: 7%;
+    background-color: #fff;
+    text-align: center;
+}
+
+.footer-icon {
+    margin: 1%;
 }
