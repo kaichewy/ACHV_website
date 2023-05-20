@@ -1,0 +1,232 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.35rem;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-size: 150%;
+    color: white;
+}
+
+.nav-link {
+    font-size: 125%;
+    color: white;
+}
+
+.navbar-toggler {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #FCC8D1;
+}
+
+.navbar-brand:hover {
+    color: #FCC8D1;
+}
+
+.title {
+    padding-top: 6rem;
+
+}
+
+.ult-box1 {
+    background-color: ;
+}
+
+.big-box {
+    margin: 0;
+    padding: 0;
+}
+
+.big-box1 {
+    background-color: ;
+    color: black;
+    padding-top: 6rem;
+}
+
+.box2 {
+    justify-content: center;
+    background-color: ;
+}
+
+.big-box2 {
+    background-color: ;
+    padding: 0;
+}
+
+.achv-logo {
+  display: block;
+  width: 80%;
+}
+
+
+.achv-logo2 {
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+.background {
+    background: radial-gradient(circle at 7.5% 24%, rgb(237, 161, 193) 0%, rgb(250, 178, 172) 25.5%, rgb(190, 228, 210) 62.3%, rgb(215, 248, 247) 93.8%);
+}
+
+.sign-up-button:hover {
+    background-color: #FCC8D1;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("/static/images/pexels-julia-m-cameron-4144923.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background2 {
+    background: linear-gradient(179.4deg, rgb(253, 240, 233) 2.2%, rgb(255, 194, 203) 96.2%);
+    }
+
+.background3 {
+    background: radial-gradient(circle at 24.1% 68.8%, rgb(50, 50, 50) 0%, rgb(0, 0, 0) 99.4%);
+    }
+
+
+.about-us-small {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 2rem;
+    color: black;
+    font-size: 1.5rem;
+    background-color: white;
+}
+
+.highlights {
+    color: #66bfbf;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2rem;
+}
+
+.highlight2 {
+    color: #f9b4ea;
+}
+
+.highlight3 {
+    color: red;
+}
+
+.highlight4 {
+    color: gold;
+}
+
+.highlight5 {
+    color: violet;
+}
+
+.about-us-big {
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.we-are-achv {
+    color:#f9b4ea;
+    font-size: 5rem;
+}
+
+.fa-graduation-cap {
+    margin-top: 5rem;
+}
+
+.features-section {
+    background-color: #fbfbfd;
+}
+
+.features {
+    padding: 5%;
+    text-align: center;
+    line-height: 3;
+
+}
+
+.moto-section {
+    background-color: #FEF2F4;
+}
+
+.moto {
+    text-align: center;
+    padding: 5% 0;
+}
+
+.moto-line1 {
+    font-size: 200%;
+}
+
+.moto-line2 {
+    font-size: 300%;
+}
+
+.moto-line3 {
+    font-size: 500%;
+}
+
+.brand-part {
+    color: #FFABAB;
+}
+
+.more-about-us {
+    text-align: center;
+    background-color: white;
+    padding: 5% 0;
+}
+
+.more-about-us-title {
+    font-size: 400%;
+}
+
+#pricing {
+    padding: 7%;
+}
+
+.prices {
+    padding-bottom: 2rem;
+}
+
+#cta {
+    background-color: black;
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
+
+#footer {
+    padding: 7%;
+    background-color: #fff;
+    text-align: center;
+}
+
+.footer-icon {
+    margin: 1%;
+}
+
+@media (max-width:1000px) {
+    .title {
+        padding:0
+    }
+    .big-box1 {
+        border-top: solid;
+        border-color: black;
+        padding-bottom: 5%;
+    }
+}
+
